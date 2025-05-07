@@ -35,8 +35,7 @@
 ### 📌 Projeto Principal
 
 - #### [🤖 Mizuki-Bot-Discord](https://github.com/Hakkaiz01/Mizuki-Bot-Discord)
-
-Um bot para Discord desenvolvido com foco em automação, interatividade e funcionalidades personalizadas para comunidades.
+ - Um bot para Discord desenvolvido com foco em automação, interatividade e funcionalidades personalizadas para comunidades.
 
 ---
 
