@@ -32,6 +32,12 @@
 
 ---
 
+## Projeto Principal
+
+[Mizuki Bot](https://github.com/Hakkaiz01/Mizuki-Bot-Discord)
+
+---
+
 ### 📫 Contato
 
 - 📍 Rio de Janeiro - RJ  
