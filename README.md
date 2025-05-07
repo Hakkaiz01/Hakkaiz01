@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou o Douglas Renan</h1>
+<p align="center">💻 Técnico em TI | Apaixonado por suporte, redes e desenvolvimento</p>
 
-<!--
-**Hakkaiz01/Hakkaiz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Tenho formação em hardware, redes e estou aprendendo **TypeScript**
+- 🖥️ Trabalho com **Windows** e **Linux**, montagem de PCs e redes locais
+- 🔧 Adoro resolver problemas e aprender coisas novas todos os dias
+- 🌱 Atualmente focado em evoluir como desenvolvedor e profissional de TI
+
+---
+
+### 🎯 Objetivos
+
+- 🔹 Crescer na área de **Tecnologia da Informação**
+- 🔹 Dominar **TypeScript** e ferramentas de desenvolvimento web
+- 🔹 Ajudar pessoas e aprender com a comunidade
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode" />
+</p>
+
+---
+
+### 📫 Contato
+
+- 📍 Rio de Janeiro - RJ  
+- 📧 hakkaiz.k@gmail.com  
+
+---
+
+### ⚡ Curiosidades
+
+- 🎮 Gosto de tecnologia desde criança
+- 🧠 Excelente raciocínio lógico e resolução de problemas
+- 🤝 Sempre disposto a aprender e colaborar
+
+---
