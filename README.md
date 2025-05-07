@@ -34,7 +34,7 @@
 
 ### 📌 Projeto Principal
 
-- #### [🤖 Mizuki-Bot-Discord](https://github.com/Hakkaiz01/Mizuki-Bot-Discord)
+- [🤖 Mizuki-Bot-Discord](https://github.com/Hakkaiz01/Mizuki-Bot-Discord)
  - Um bot para Discord desenvolvido com foco em automação, interatividade e funcionalidades personalizadas o Servidor DBC Super.
 
 ---
@@ -51,4 +51,4 @@
 - 🎮 Gosto de tecnologia desde criança.
 - 🧠 Excelente raciocínio lógico e resolução de problemas.
 - 🤝 Sempre disposto a aprender e colaborar.
-- ⚙️ Atualmente Desenvolvento o Bot #### [Azuris](https://github.com/Hakkaiz01/Azuris-Project/blob/main/README.md)
+- ⚙️ Atualmente Desenvolvento o Bot [Azuris](https://github.com/Hakkaiz01/Azuris-Project/blob/main/README.md)
