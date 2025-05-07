@@ -1,7 +1,3 @@
-Aqui está o conteúdo do seu `README.md` reorganizado e com uma breve descrição do seu projeto principal, **Mizuki-Bot-Discord**:
-
----
-
 <h1 align="center">Olá 👋, eu sou o Douglas Renan</h1>
 <p align="center">💻 Técnico em TI | Apaixonado por suporte, redes e desenvolvimento</p>
 
@@ -38,7 +34,7 @@ Aqui está o conteúdo do seu `README.md` reorganizado e com uma breve descriç�
 
 ### 📌 Projeto Principal
 
-#### [Mizuki-Bot-Discord](https://github.com/Hakkaiz01/Mizuki-Bot-Discord)
+#### [🤖 Mizuki-Bot-Discord](https://github.com/Hakkaiz01/Mizuki-Bot-Discord)
 
 Um bot para Discord desenvolvido com foco em automação, interatividade e funcionalidades personalizadas para comunidades.
 
@@ -47,7 +43,7 @@ Um bot para Discord desenvolvido com foco em automação, interatividade e funci
 ### 📫 Contato
 
 - 📍 Rio de Janeiro - RJ  
-- 📧 [hakkaiz.k@gmail.com](mailto:hakkaiz.k@gmail.com)
+- 📧 hakkaiz.k@gmail.com
 
 ---
 
@@ -56,7 +52,3 @@ Um bot para Discord desenvolvido com foco em automação, interatividade e funci
 - 🎮 Gosto de tecnologia desde criança.
 - 🧠 Excelente raciocínio lógico e resolução de problemas.
 - 🤝 Sempre disposto a aprender e colaborar.
-
----
-
-Se precisar de mais ajuda para personalizar ainda mais o `README.md`, é só avisar!
