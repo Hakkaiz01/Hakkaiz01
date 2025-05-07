@@ -51,3 +51,4 @@
 - 🎮 Gosto de tecnologia desde criança.
 - 🧠 Excelente raciocínio lógico e resolução de problemas.
 - 🤝 Sempre disposto a aprender e colaborar.
+- ⚙️ Atualmente Desenvolvento o Bot [Azuris]()
