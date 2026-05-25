@@ -58,5 +58,4 @@ Em breve 🚀
 📫 Contato
 
 - 📍 Rio de Janeiro - RJ
-- 📧 Email profissional
-- 💼 LinkedIn
+- 📧 Hakkaiz.k2@gmail.com
