@@ -1,6 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Hakkaiz</h1><p align="center">
 💻 Desenvolvedor Full Stack • JavaScript • TypeScript • Java
 </p>
+
 ---
 
 🚀 Sobre mim
